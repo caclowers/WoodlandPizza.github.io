@@ -14,7 +14,7 @@ In Google Play, search for Expo
 Once the app is installed, use your phones camera to scan the appropriate QR code below:
 
 Android:
-![alt text](https://woodlandpizza.github.io/android.png "Expo App on Android")
+![alt text](https://woodlandpizza.github.io/Android.png "Expo App on Android")
 
 iOS:
 ![alt text](https://github.com/WoodlandPizza/WoodlandPizza.github.io/blob/master/iOS.png "Expo App on iOS")
