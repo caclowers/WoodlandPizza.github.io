@@ -17,4 +17,4 @@ Android:
 ![alt text](https://woodlandpizza.github.io/android.png "Expo App on Android")
 
 iOS:
-![alt text](https://woodlandpizza.github.io/ios.png "Expo App on iOS")
+![alt text](https://github.com/WoodlandPizza/WoodlandPizza.github.io/blob/master/iOS.png "Expo App on iOS")
